@@ -39,4 +39,7 @@ I created the Job Market Salary Dashboard to explore and visualize salaries in t
 ## Dashboard
 <img width="1324" height="738" alt="Environmental Metrics page1" src="https://github.com/Akshataa28/Job-Market-Salary-Dashboard/blob/main/Job-market-salary-dashboard.png" />
 
+## Note
+CTR = Contract | FT = Full Time | FRL = Freelance | PT = Part Time
+
 
